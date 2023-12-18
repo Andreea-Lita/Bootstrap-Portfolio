@@ -1,4 +1,32 @@
-#name {
+.hero h1 {
     font-size: 26px;
-    ;
+    background-color: rgb(145, 126, 144);
+    /*border: var(--border);*/
+    width: fit-content;
+    margin-top: auto;
+}
+
+.hero {
+    /*border: var(--border);*/
+    height: 250px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/tenerif_loscristianos ship.jpeg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    align-content: stretch;
+    background-repeat: no-repeat;
+}
+
+.color-links li a {
+    color: rgb(55, 55, 85)
+}
+
+.container-fluid h2 {
+    margin-left: 40px;
 }
