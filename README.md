@@ -18,7 +18,7 @@ https://andreea-lita.github.io/Bootstrap-Portfolio/
 
 Some illustrative screenshot of the project,more specific the first part and code of a container and grid element, and also section jumbotron hero in CSS:
 ![First part](assets/bootstrap-portfolio-toppage.png)   
-![html-css-code-grid-cards-and-nav](assets/images/html-css-code-grid-cards-and-nav.png)
+![html-css-code-grid-cards-and-nav](assets/html-css-code-grid-cards-and-nav.png)
 
 
 ## Credits
