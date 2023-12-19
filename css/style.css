@@ -122,13 +122,8 @@
     background-color: black;
 }
 
-#contact-li a {
-    color: lightblue;
-    padding-left: 50px;
-    margin-right: 50px;
-    text-decoration: none;
-}*/
+*/
     
-     :root {
+    :root {
         --mycolor: rgb(1, 250, 234) 1px solid;
     }
